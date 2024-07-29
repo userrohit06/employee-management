@@ -46,4 +46,4 @@ Usage
 
 3. Delete Employee: To remove an employee, click on the "Delete" button next to their record. A confirmation dialog will appear before deleting the data.
 
-##Note - Project images are in images folder.
+## Note - Project images are in images folder.
