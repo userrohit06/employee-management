@@ -36,7 +36,7 @@ npm install
 4. Start the development server:
 bash
 npm run dev
-
+```
 The application will be available at http://localhost:5173/.
 
 Usage
@@ -45,3 +45,5 @@ Usage
 2. Edit Employee: Locate the employee you want to edit in the table, then click on the "Edit" button next to their record.
 
 3. Delete Employee: To remove an employee, click on the "Delete" button next to their record. A confirmation dialog will appear before deleting the data.
+
+##Note - Project images are in images folder.
